@@ -1,0 +1,21 @@
+Pehle toh ye dekh: https://www.youtube.com/watch?v=kqtD5dpn9C8
+
+4 Primitive datatypes in Python - integers, floats, str's, and bools 
+(but apparently more? https://www.geeksforgeeks.org/python-data-types/)
+
+Tuples - same as lists but immutable
+
+Dictionary - a collection of {key:value} pairs
+           - ordered and changeable. No duplicates
+
+
+Some key concepts - https://www.youtube.com/watch?v=mMv6OSuitWw
+
+In Python, you can only have one thread in execution at a time. This because a thread needs to acquire the Global Interpreter 
+Lock (GIL) in order to execute. So if one thread acquires a Global Lock, the others obviously don't have it at the same point in
+time.
+    However, this rule only applies for CPU-intensive tasks. For I/O bound tasks (like network operations or disk access), using 
+threads in Python can be highly beneficial because the GIL is released during I/O operations.
+    For CPU-intensive activities, there are ways to bypass the GIL’s restrictions, such as deploying processes from the 
+multiprocessing module or developing C extensions.
+

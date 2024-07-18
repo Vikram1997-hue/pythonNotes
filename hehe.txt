@@ -1,0 +1,36 @@
+-> can remove optional add device info
+
+-> PAN: first flow only (decide internally first)
+
+
+
+LOAN FLOW
+
+state is not required, going forward
+
+cases in which user gets redirected to KB (rare cases hi honge) - redo KYC, couple more
+
+preLoan BRE (pre-req: rare) - confirmed long back (~2 years ago), and now coming back to our app. Limit might now be different as per RBI guidelines
+
+
+partner/products - pretty obvious
+
+vKycRequired: yes - very rare since our guy is confirmed.
+
+
+Get the User bank details API - will return if user has already submitted bank details
+
+
+isNachRequired: yes - NACH mandate is required for only certain loans on KB platofmr. If this is one of those loans, isNachRequired: yes
+
+To get status of the NACH API - has guy already submitted NACH
+Initiate NACH API - create a new NACH
+
+
+
+
+
+
+LOAN SANCTION DOC GENERATION - after arrow splitting
+
+

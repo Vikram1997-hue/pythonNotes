@@ -1,0 +1,50 @@
+https://www.youtube.com/watch?v=_ZvnD73m40o
+
+BIBLE -
+1. Avoid Oxford comma
+2. EVERYTHANG is Linguistics. Better the prompt, better the result
+
+
+
+Prompt engineering
+    - write, refine, and optimize prompts
+    - perfect the interaction between humans and AI
+    - continuously monitor these prompts
+    - maintain an up-to-date prompt library
+
+
+AI - the simulation of human intelligence processes by machines
+
+Generative AI - AI capable of generating text, images, videos, or other data using generative models, often in response to prompts.
+GenAI models learn the patterns and structure of their input training data and then generate new data that has similar 
+characteristics.
+
+
+Correct my paragraph:
+(will literally just take a fucked up para and correct the grammatical errors. Will not add to the para by adding in more 
+sentences or providing any over-the-top suggestions)
+
+
+On the contrary -
+I want you to act as a spoken English teacher. I will speak to you in English, and you will reply to me in English to practice 
+my spoken English. I want you to keep your reply neat, limiting the reply to 100 words. I want you to strictly correct my grammar
+mistakes and typos. I want you to ask me a question in your reply. Now let's start practicing, you could ask me a question first.
+Remember, I want you to strictly correct my grammar mistakes, factual errors and typos.
+
+This will make the LLM way more interactive.
+
+
+
+Language Models - Capable of understanding and creating human-like text. A LM is a clever computer program that learns from a 
+vast collection of written text. It takes in books, articles, websites, and all sorts of written resources, allowing it to gather
+knowledge about how humans use language
+How it works - Imagine you feed the Language Model a sentence. The LM will first analyze the sentence, examine the order of words,
+their meanings, and the way they fit together. The LM would then generate a prediction or a continuation of the sentence based on
+its understanding of the language. The response will look like it came from a human being.
+LM's are commonly used in Smartphone Virtual Assistants, Customer Service Chatbots, and in Content Writing.
+ 
+
+Example Prompt:
+I want you to act as my best friend. I will speak to you about my problems and you will reply with compassion and question if I am
+okay in a conversational manner. I want you to keep your reply neat, limiting the reply to 100 words.
+
