@@ -48,3 +48,4 @@ Example Prompt:
 I want you to act as my best friend. I will speak to you about my problems and you will reply with compassion and question if I am
 okay in a conversational manner. I want you to keep your reply neat, limiting the reply to 100 words.
 
+
